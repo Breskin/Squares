@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="io.github.breskin2000" version="1.0.0">
-  <name>Squares.Canvas</name>
+  <name>SquaresTest</name>
   <description>Hello World sample application that responds to the deviceready event.</description>
   <author href="http://breskin2000.github.io" email="jakubpiasecki67@gmail.com">PhoneGap Team</author>
   <content src="index.html"/>
@@ -47,5 +47,6 @@
   <allow-intent href="sms:*"/>
   <allow-intent href="mailto:*"/>
   <allow-intent href="geo:*"/>
+  
   <platform name="winphone" />
 </widget>
